@@ -76,13 +76,6 @@ pip install -r requirements.txt
 python main.py
 
 
-📸 Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-
 🤝 Contributing
 
 Contributions are welcome!
